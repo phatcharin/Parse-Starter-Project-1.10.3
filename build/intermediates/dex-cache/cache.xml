@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-59415220ebe4fd916e4a41f59c7a49b2c1874406.jar" />
+    </item>
+    <item
+        jar="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-0156dad335cec204ec2b7b6ef2888f572f361944.jar" />
+    </item>
+    <item
+        jar="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-73ca2153992e7ffa2e29491093bba8afdb875fda.jar" />
+    </item>
+    <item
+        jar="C:\Users\vamnoize\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.3\36366e460af2c0f224bb8f70b64e3302f638b138\parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.10.3-1cf406cb6e50658509dac20c2e0f70fc400c2063.jar" />
+    </item>
+    <item
+        jar="C:\Users\vamnoize\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-34eb619a036d25304614f3e8a44cfea1bd8f93b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\vamnoize\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-fe838b81e446ff01a9dd39076d6c9341e1f6a13f.jar" />
+    </item>
+    <item
+        jar="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1aed09b529ca7ccbd5384421b893d4a7ee9937ff.jar" />
+    </item>
+    <item
+        jar="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\2015\Project\testLogin2\Parse-Starter-Project-1.10.3\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-1799ab9ba8e734e25e6371178e743444e31b50af.jar" />
+    </item>
+
+</items>
